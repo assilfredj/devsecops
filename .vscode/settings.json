@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "SonarQube-DevSecOps",
+        "projectKey": "devops_git"
+    }
+}
